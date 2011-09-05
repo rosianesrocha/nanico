@@ -4,9 +4,9 @@ Nanico, Small, Fast and Simple PHP 5 Framework, created for my own necessities, 
 
 ## Features
 
-* Named Routes.
-* Implements Model-View-Controller (MVC) pattern.
-* Implements ActiveRecord Pattern (http://php-activerecord.org).
+* Named Routes
+* Implements Model-View-Controller (MVC) pattern
+* Implements ActiveRecord Pattern (http://php-activerecord.org)
 * Suports MySQL, SQLite, PostgreSQL and Oracle databases
 
 ## Contact
