@@ -1,7 +1,7 @@
 <?php
 
 // defines the root directory
-define('ROOT', dirname(dirname(__FILE__)));
+define('ROOT', dirname(__DIR__));
 
 // defines the root directory
 define('CORE', ROOT . '/core');
