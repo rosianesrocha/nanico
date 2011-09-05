@@ -1,10 +1,14 @@
 <?php
 
+/*
+ * Database connections configuration.
+ */
+
 $connections = array
 (
-     'development' => 'mysql://root:@localhost/nanico_admin_development',
-     'production' => 'mysql://root:@localhost/nanico_admin_production',
-     'test' => 'mysql://root:@localhost/nanico_admin_test'
+     'development' => 'mysql://root:@localhost/nanico_development',
+     'production' => 'mysql://root:@localhost/nanico_production',
+     'test' => 'mysql://root:@localhost/nanico_test'
 );
 
 ActiveRecord\Config::initialize(function($cfg) use ($connections)
