@@ -1,6 +1,6 @@
 #Nanico
 
-Nanico, Small, Fast and Simple PHP 5 Framework, created for my own necessities, use for your account and risk =) !
+Nanico, Small, Fast and Simple PHP 5 Framework, created for my own necessities, use at your own risk =) !
 
 ## Features
 
