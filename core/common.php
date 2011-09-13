@@ -72,3 +72,15 @@ function load_class($class, $directory = 'core', $instantiate = FALSE )
                 }
         }
 }
+
+/**
+ * Redirect for a action event
+ * 
+ * @param string url
+ * @return null
+ */
+
+function redirect($url)
+{
+        header("location: $url");
+}
